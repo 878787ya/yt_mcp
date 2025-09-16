@@ -1,0 +1,15 @@
+# OS / Editors
+.DS_Store
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+
+# Secrets / local
+.env
+mcp.json
+*.log
