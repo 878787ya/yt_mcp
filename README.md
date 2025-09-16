@@ -1,5 +1,3 @@
-整理好了！直接把下面整段貼成你的 `README.md` 就行。
-
 ---
 
 # yt\_mcp — YouTube Comments MCP Server
