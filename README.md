@@ -14,7 +14,8 @@
 uv venv
 source .venv/bin/activate
 uv pip install "mcp[cli]" httpx python-dotenv
-在 Claude Desktop 使用（本機 STDIO）
+
+## 在 Claude Desktop 使用（本機 STDIO）
 Settings → Developer → Local MCP servers → Edit Config，加入（請換成你的絕對路徑）：
 {
   "mcpServers": {
